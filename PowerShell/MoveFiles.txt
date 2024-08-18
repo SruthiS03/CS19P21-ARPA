@@ -1,0 +1,3 @@
+Move-Item -Path "C:\Users\hp\Documents\UiPath\PowerShell\rec1.txt" -Destination "Scripts"
+Move-Item -Path "C:\Users\hp\Documents\UiPath\PowerShell\rec2.txt" -Destination "Scripts"
+Move-Item -Path "C:\Users\hp\Documents\UiPath\PowerShell\rec3.txt" -Destination "Scripts"

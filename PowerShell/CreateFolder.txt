@@ -1,0 +1,1 @@
+New-Item -Path "C:\Users\hp\Documents\UiPath\PowerShell" -ItemType "directory" -Name "Scripts"
