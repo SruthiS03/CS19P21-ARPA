@@ -34,6 +34,7 @@
   "UiPath.UiAutomation.Activities.KeyboardEvents.SimulateType": "False",
   "UiPath.UiAutomation.Activities.SAP.EnforceHardTimeout": "False",
   "UiPath.UiAutomation.Activities.SAP.SapAdditionalScaling": "True",
+  "UiPath.UiAutomation.Activities.SAP.EnableSapMonitoring": "False",
   "UiPath.UiAutomation.Activities.SendHotkey.SendWindowMessages": "False",
   "UiPath.UiAutomation.Activities.MouseEvents.SendWindowMessages": "False",
   "UiPath.UiAutomation.Activities.MouseEvents.SimulateClick": "False",
